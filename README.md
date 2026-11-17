@@ -1,4 +1,4 @@
-# Hi, I'm Thobile Ignatia Ngcobo
+# Hi, I'm Thobile Ngcobo
 
 BSc IT graduate and Digital Forensics & Incident Response student at ICDFA, based in South Africa.
 I'm building hands-on investigation skills and documenting them here.
