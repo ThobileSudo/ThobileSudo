@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Thobile Ignatia Ngcobo
 
-<!--
-**ThobileSudo/ThobileSudo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+BSc IT graduate and Digital Forensics & Incident Response student at ICDFA, based in South Africa.
+I'm building hands-on investigation skills and documenting them here.
 
-Here are some ideas to get you started:
+Open to junior SOC analyst, IT security and DFIR roles (willing to relocate within South Africa).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I'm working on
+- ICDFA Professional Digital Forensics Investigator & Incident Response programme
+- Lab write-ups on evidence handling, disk and partition analysis, and log analysis
+
+## Skills I've practised
+| Area | Tools and topics |
+|---|---|
+| Linux | Kali (WSL2), command line, file systems and inodes, permissions, shell scripting |
+| Windows | PowerShell, CMD, Disk Management, DiskPart |
+| Evidence analysis | grep/find log searching, timestamps, partition and sector calculations |
+| Networking | ip, ping, ss, nmap (own systems only) |
+
+## Featured work
+- [DFIR labs](https://github.com/ThobileSudo/ICDFA-Digital-Forensics-Investigation-Incident-Response-Labs): lab write-ups with commands, screenshots and findings
+
+## Background
+IT support, helpdesk and administration experience, plus remote IT and security services through Iggy's Studio
+
+## Connect
+[LinkedIn](https://linkedin.com/in/thobile-ngcobo)
